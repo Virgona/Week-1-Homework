@@ -3,6 +3,8 @@
 
 This is a basic webpage template. I was given the code as a challenge for this bootcamp. The challange was to correct and identify HTML semantics and clean up the CSS. While containing the integrity of the page. Below I have posted the image of the page and if you launch my site you can see they are at least 90% the same.
 
+Link to my Website:
+https://virgona.github.io/Week-1-Homework/
 
 ### Motovation
 Its like puzzle. I have fun working on puzzles and learning these new skills adds a complexity to the puzzle that makes it really satisfying to complete. I was motovated to complete this task to the best of my ability and to the highest standard I feel I could achieve through my desire to learn and my own huebris in wanting to overome the challenge 
